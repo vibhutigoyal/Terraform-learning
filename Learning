@@ -1,0 +1,11 @@
+Terraform Overview (infrastructure as code) :- https://www.terraform.io/use-cases/infrastructure-as-code
+Terraform installation & Basics :- https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+Building,Changing and Destroying infrastructure using resources and Terraform commands.
+Variable files overview (variable.tf and terraform.tf vars), Resources deployment on AWS using variable files and multiple variable types.
+set up of Ec2 instance by terraform and establish session of remote server using putty and cmd.
+local and Output values overview and Perform lab.
+Terraform Stage Management(local and remote tfstate) and locking feature:-https://drive.google.com/drive/folders/1_AcJHWqVNbZw57iG873yTjfcold2TgFw {Lecture 14}
+workkspaces in Terraform Overview, creation of Multiple workspaces using commands.
+Terraform provisioners and User_data :- https://www.youtube.com/watch?v=aLrperAAV2M
+Dynamic Blocks and conditonal expression overview and Lab.
+Terraform Functions (Numeric,String,Collection,Encoding,Filesystem,Date and time,Type conversion,Ip-Network):-https://developer.hashicorp.com/terraform/language/functions
